@@ -1,0 +1,16 @@
+{
+	"dbname":{
+		"users":{
+			"id":"INT AUTO_INCREMENT PRIMARY KEY",
+			"username":"varchar(255)",
+			"pass":"varchar(255)",
+			"columnname4":"BOOLEAN"
+		},
+		"table2":{
+			"id":"INT AUTO_INCREMENT PRIMARY KEY",
+			"columnname5":"varchar(255)",
+			"columnname6":"int",
+			"columnname7":"BOOLEAN"
+		}
+	}
+}
